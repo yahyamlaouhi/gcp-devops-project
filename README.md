@@ -8,11 +8,11 @@ a set period of time during which specific work has to be completed made ready f
 # Sprint-01:
 - create repository
 - setup repo according to company best practice
+    - Enable branch protection
+    - Require pull request reviews before merging
+    
 - dockerize the app
 - test the code locally
 - push the code into github repo
 
-## setup repo according to company best practice
 
-- Enable branch protection
-- 
